@@ -20,4 +20,3 @@ Limitations of the CDC Mortality rate:
 •	Completeness – Some death counts were not accounted for and non-numeric value of suppressed was in its place. 
 
  In the data set, some death counts for younger populations were categorized as suppressed and according to CDC, “to discourage misinterpretation or misuse of rates or counts that are unstable, incidence and death rates and counts are not shown in tables and figures if the case or death counts are below 16”
-![image](https://user-images.githubusercontent.com/122002608/211269524-6384ae8c-a194-426d-8419-99742e06952d.png)
