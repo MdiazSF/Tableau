@@ -1,5 +1,7 @@
 # Tableau
 
+https://public.tableau.com/app/profile/michelle.diaz/viz/FinalInfluenzaProject/Story1
+
 ### PROJECT OVERVIEW: 
 Motivation: The United States has an influenza season where more people than usual suffer from the flu. Particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary staff.
 
